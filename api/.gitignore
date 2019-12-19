@@ -1,0 +1,5 @@
+*.DS_Store
+/services/db/sql-export
+/img
+/certificates
+/settings/appsettings.php
